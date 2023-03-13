@@ -1,7 +1,7 @@
 # PSTAT-100-CP2
 
-## Part 1
-This is the file from the project plan proposal and cleaned data that we turned in. Please use this for Part 2.
+## Part-1 Folder
+This is the file from the project plan proposal and cleaned data that we turned in. Please use this for future versions.
 
 ## Useful links for data description
 
