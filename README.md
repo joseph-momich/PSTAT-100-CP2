@@ -1,7 +1,7 @@
 # PSTAT-100-CP2
 
 ## Part-1 Folder
-This is the file from the project plan proposal and cleaned data that we turned in. Please use this for future versions.
+This is the file from the project plan proposal and cleaned data that we turned in. Please refer to this and "VO" (Version 0) for future versions.
 
 ## Useful links for data description
 
